@@ -1,2 +1,2 @@
-# stylelint-config
+# Stylelint Config
 Modular stylelint configuration
