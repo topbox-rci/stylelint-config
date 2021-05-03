@@ -1,8 +1,7 @@
 {
-  "name": "stylelint-config",
+  "name": "@topbox-rci/stylelint-config",
   "version": "1.0.0",
   "description": "Shared linting rules.",
-  "main": "index.js",
   "scripts": {
     "test": "stylelint --syntax scss 'test/**/*.scss'"
   },
