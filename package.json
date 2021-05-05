@@ -10,7 +10,7 @@
     "url": "ssh://git@github.com/topbox-rci/stylelint-config.git"
   },
   "files": [
-    ".stlyelintrc.json"
+    ".stylelintrc.json"
   ],
   "author": "dscharf74",
   "license": "ISC",
