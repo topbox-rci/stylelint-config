@@ -1,13 +1,16 @@
 {
   "name": "@topbox-rci/stylelint-config",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Shared linting rules.",
   "scripts": {
     "test": "stylelint --syntax scss 'test/**/*.scss'"
   },
   "repository": {
     "type": "git",
-    "url": "ssh://git@github.com:topbox-rci/stylelint-config.git"
+    "url": "https://github.com/topbox-rci/stylelint-config.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/"
   },
   "files": [
     "index.js"
