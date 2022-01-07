@@ -4,7 +4,8 @@ module.exports = {
     "extends": [
         "stylelint-config-standard",
         "stylelint-config-sass-guidelines",
-        "stylelint-config-property-sort-order-smacss"
+        "stylelint-config-property-sort-order-smacss",
+        "stylelint-config-standard-scss"
     ],
     "rules": {
         "no-descending-specificity": null,
