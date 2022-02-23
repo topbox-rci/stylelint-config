@@ -76,6 +76,20 @@ module.exports = {
                 "severity": "warning"
             }
         ],
-        "selector-no-qualifying-type": null
+        "selector-no-qualifying-type": null,
+        "string-quotes": null,
+        "max-line-length": null,
+        "keyframes-name-pattern": null,
+        "scss/double-slash-comment-empty-line-before": null,
+        "scss/double-slash-comment-whitespace-inside": null,
+        "scss/dollar-variable-empty-line-before": null,
+        "scss/dollar-variable-pattern": /[a-z\-]/,
+        "scss/at-import-partial-extension": null,
+        "declaration-block-no-redundant-longhand-properties": [
+            true,
+            { "severity": "warning" }
+        ],
+        "color-function-notation": null,
+        "alpha-value-notation": null
     }
 }
