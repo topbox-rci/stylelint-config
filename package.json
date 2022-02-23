@@ -1,9 +1,9 @@
 {
   "name": "@topbox-rci/stylelint-config",
-  "version": "1.0.6",
+  "version": "1.1.0",
   "description": "Shared linting rules.",
   "scripts": {
-    "test": "stylelint --syntax scss 'test/**/*.scss'"
+    "test": "stylelint 'test/**/*.scss'"
   },
   "repository": {
     "type": "git",
@@ -19,11 +19,12 @@
   "author": "dscharf74",
   "homepage": "https://github.com/topbox-rci/stylelint-config#readme",
   "dependencies": {
-    "stylelint-config-property-sort-order-smacss": "^7.1.0",
-    "stylelint-config-sass-guidelines": "^8.0.0",
-    "stylelint-config-standard": "^21.0.0"
+    "stylelint-config-property-sort-order-smacss": "^8.0.0",
+    "stylelint-config-sass-guidelines": "^9.0.1",
+    "stylelint-config-standard": "^24.0.0",
+    "stylelint-config-standard-scss": "^3.0.0"
   },
   "devDependencies": {
-    "stylelint": "^13.13.0"
+    "stylelint": "^14.5.3"
   }
 }
