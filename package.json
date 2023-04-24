@@ -19,12 +19,12 @@
   "author": "dscharf74",
   "homepage": "https://github.com/topbox-rci/stylelint-config#readme",
   "dependencies": {
-    "stylelint-config-property-sort-order-smacss": "^8.0.0",
-    "stylelint-config-sass-guidelines": "^9.0.1",
-    "stylelint-config-standard": "^24.0.0",
-    "stylelint-config-standard-scss": "^3.0.0"
+    "stylelint-config-property-sort-order-smacss": "^9.1.0",
+    "stylelint-config-sass-guidelines": "^10.0.0",
+    "stylelint-config-standard": "^33.0.0",
+    "stylelint-config-standard-scss": "^9.0.0"
   },
   "devDependencies": {
-    "stylelint": "^14.5.3"
+    "stylelint": "^15.6.0"
   }
 }
